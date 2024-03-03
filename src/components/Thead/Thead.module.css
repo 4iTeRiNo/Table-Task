@@ -1,0 +1,14 @@
+.thead {
+  height: 104px;
+  background-color: var(--background-header);
+}
+
+.column {
+  text-align: left;
+  text-wrap: nowrap;
+  font-size: clamp(14px, 2vw, 18px);
+}
+
+.content {
+  padding: 15px 20px;
+}

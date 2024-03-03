@@ -1,0 +1,19 @@
+.value {
+  padding: 15px 20px;
+  text-align: left;
+  text-wrap: nowrap;
+  font-size: clamp(14px, 2vw, 18px);
+  font-weight: 700;
+}
+
+.valueNull {
+  padding: 15px 20px;
+  text-align: left;
+  text-wrap: nowrap;
+  font-size: clamp(14px, 2vw, 18px);
+  font-weight: 400;
+}
+
+.rows:nth-child(even) {
+  background-color: var(--background-td-odd);
+}
