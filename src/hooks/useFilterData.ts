@@ -8,7 +8,7 @@ const filterData = (
 ) => {
   return dataItem.filter((item) => {
     if (item[value] === null) {
-      return;
+      return 'отсутствует';
     }
     return item[value].toString().toLowerCase().includes(text);
   });
