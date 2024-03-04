@@ -1,6 +1,6 @@
 import CryptoJS from 'crypto-js';
 
-export const API_URL = 'http://api.valantis.store:40000/';
+export const API_URL = 'https://api.valantis.store:41000/';
 export const rowsTable = [5, 10, 15, 20, 30, 40, 50];
 export const filterKeyValue = ['brand', 'price', 'product'];
 
