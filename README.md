@@ -1,5 +1,1 @@
-# React + TypeScript + Vite
-
-1 Импорт стилей и картинок;
-2 создание UseReducer;
-3 Верстка компонентов;
+Деплой приложения по [тут](https://valantis-eta.vercel.app/)
